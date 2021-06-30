@@ -3140,5 +3140,18 @@
     "erc721": false,
     "symbol": "CR",
     "decimals": 8
+    
+  },
+  "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
+    "name": "AINU TOKEN",
+    "logo": "ainu.png",	
+    "erc20" :false,
+    "bep20" :true ,
+    "symbol" :"AINU",
+    "decimals" :9
   }
 }
+
+}
+
+  
